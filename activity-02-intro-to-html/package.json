@@ -1,0 +1,15 @@
+{
+  "name": "activity-02-intro-to-html",
+  "version": "1.0.0",
+  "description": "W1 Activity 02: Introduction to HTML - Build your first webpage with nested lists",
+  "main": "index.html",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "keywords": ["html", "beginner", "nested-lists", "web-development"],
+  "author": "Telebort Engineering",
+  "license": "MIT",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
