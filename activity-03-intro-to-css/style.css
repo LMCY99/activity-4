@@ -1,0 +1,18 @@
+/* External CSS file — styles all <p> and list containers across the page. */
+
+p {
+  color: black;
+  background-color: pink ;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 15px 0;
+  font-family: Arial, sans-serif;
+  line-height: 2.1;
+}
+
+ol, ul {
+  background-color:  lightblue;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 15px 0;
+}

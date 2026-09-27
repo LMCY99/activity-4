@@ -1,0 +1,15 @@
+{
+  "name": "activity-03-intro-to-css",
+  "version": "1.0.0",
+  "description": "W1 Activity 03: Introduction to CSS - Learn three CSS methods (inline, internal, external)",
+  "main": "index.html",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "keywords": ["css", "styling", "inline-css", "internal-css", "external-css", "web-development"],
+  "author": "Telebort Engineering",
+  "license": "MIT",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
